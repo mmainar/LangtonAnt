@@ -4,7 +4,7 @@ namespace LangtonAnt
 {
     public class LangtonAnt
     {
-        // Infinite grid, so we need these
+        // Infinite grid, so we need these values
         int maxRow, maxCol, minRow, minCol;
 
         public int CurrentRow { get; private set; }
